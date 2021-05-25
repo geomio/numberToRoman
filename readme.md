@@ -22,15 +22,14 @@ a basic page with form area and input for numbers and a hidden area that will di
 
 1. have internet connection
 2. have browser such as google
-3. open link via git hub here
+3. open link https://geomio.github.io/numberToRoman/
 
 or
 
-1. go to 
-2. copy link
-3. in terminal navigate to desired folder
-4. type in terminal: git clone
-5. open index.html with browser
+1. copy link/ https://github.com/geomio/numberToRoman.git
+2. in terminal navigate to desired folder
+3. type in terminal: git clone
+4. open index.html with browser
 
 must have computer with internet connection.
 
