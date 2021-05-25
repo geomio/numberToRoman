@@ -1,0 +1,16 @@
+#output{
+  display: none;
+}
+
+h1{
+  font-size: large;
+}
+
+h2{
+  font-size: medium;
+}
+
+P{
+  font-size: xx-large;
+  font-weight: bolder;
+}
